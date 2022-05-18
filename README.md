@@ -1,2 +1,2 @@
-# simple_shell
-Making a custom UNIX shell (Gates of Shell)
+# simple_shell 
+Gates of Shell
